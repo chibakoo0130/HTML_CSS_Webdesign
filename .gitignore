@@ -7,8 +7,6 @@
 !.vscode/extensions.json
 
 
-sakura.jpg
-images/button.png
 ### https://raw.github.com/github/gitignore/f9291de89f5f7dc0d3d87f9eb111b839f81d5dbc/Global/macOS.gitignore
 
 # General
@@ -17,7 +15,8 @@ images/button.png
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -39,4 +38,5 @@ Temporary Items
 .apdisk
 
 
-button.png
+*.png
+*.jpg
